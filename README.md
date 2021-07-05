@@ -1,7 +1,7 @@
 # KeepTrackOfYourWorkout
 
 ## Description
-Given some started code for this workout tracker, at least the front end code, the purpose of this assignment was to create a Mongo database with a Mongoose schema and handle routes with Express. The purpose of the application is for the consumer to reach their fitness goals more quickly with the progress of their workouts. The application had to give the user the capability to: 
+Given some started code for this workout tracker, at least the front end code, the purpose of this assignment was to create a Mongo database with a Mongoose schema and handle the routes with Express. The purpose of the application is for the consumer to reach their fitness goals more quickly with the progress of their workouts. The application had to give the user the capability to: 
 
   * Add exercises to the most recent workout plan.
 
@@ -11,7 +11,7 @@ Given some started code for this workout tracker, at least the front end code, t
 
   * View the total duration of each workout from the past seven workouts on the `stats` page.
 
-Live Link: (Add Heroku Website)
+Live Link: https://friendly-eh-56333.herokuapp.com/
 
 
 ## Table of Contents
